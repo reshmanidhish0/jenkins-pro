@@ -41,8 +41,7 @@
 
     <modules>
         <module>api</module>
-		<module>commons</module>
-		<module>jobs</module>
+	<module>commons</module>
+	<module>jobs</module>
     </modules>
-
 </project>
